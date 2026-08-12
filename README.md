@@ -14,7 +14,7 @@ Olá! Eu sou **Luan Vinicius**, estudante de **Desenvolvimento Front-End** e um 
 <!-- cards content -->
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiraofcode&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashiraofcode&theme=ambient_gradient&langs_count=7 )](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashiraofcode&theme=tokyonight&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanV1n1c1us&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanV1n1c1us&theme=ambient_gradient&langs_count=7 )](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanV1n1c1us&theme=tokyonight&utcOffset=8) |
 | :-: | :-: | :-: |
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanV1n1c1us&theme=tokyonight) |
@@ -77,7 +77,7 @@ Acredito que a chave para o sucesso é a **constância** e a **curiosidade**. N�
 - **Curioso e sempre em busca de aprendizado constante**
 ---
 ## (⌐■_■) Fale Comigo!!!
-[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmir-neto-futurodevfullstack/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514988110406?text=Olá%2C+gostaria+de+saber+mais+sobre+seu+trabalho!) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:netovalmir740@gmail.com)
+[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanviniciusdev) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514988110406?text=Olá%2C+gostaria+de+saber+mais+sobre+seu+trabalho!) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:netovalmir740@gmail.com)
 
 
 ---
