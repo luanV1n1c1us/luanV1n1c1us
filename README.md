@@ -17,7 +17,7 @@ Olá! Eu sou **Luan Vinicius**, estudante de **Desenvolvimento Front-End** e um 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiraofcode&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashiraofcode&theme=ambient_gradient&langs_count=7 )](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashiraofcode&theme=tokyonight&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiraofcode&theme=tokyonight) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanV1n1c1us&theme=tokyonight) |
 | :-: | 
   
 </div>
@@ -25,9 +25,9 @@ Olá! Eu sou **Luan Vinicius**, estudante de **Desenvolvimento Front-End** e um 
 <!-- Animação da snake -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hashiraofcode/hashiraofcode/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hashiraofcode/hashiraofcode/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hashiraofcode/hashiraofcode/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanV1n1c1us/luanV1n1c1us/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanV1n1c1us/luanV1n1c1us/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luanV1n1c1us/luanV1n1c1us/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
   
