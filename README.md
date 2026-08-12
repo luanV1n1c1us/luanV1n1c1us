@@ -14,7 +14,7 @@ Olá! Eu sou **Luan Vinicius**, estudante de **Desenvolvimento Front-End** e um 
 <!-- cards content -->
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanV1n1c1us&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanV1n1c1us&theme=ambient_gradient&langs_count=7 )](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanV1n1c1us&theme=tokyonight&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanV1n1c1us&theme=tokyonight) | [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luanV1n1c1us&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanV1n1c1us&theme=tokyonight&utcOffset=8) |
 | :-: | :-: | :-: |
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanV1n1c1us&theme=tokyonight) |
